@@ -1,2 +1,2 @@
 # Practica_1R
-Código de prácticas
+Código de prácticas :)
